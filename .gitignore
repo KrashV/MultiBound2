@@ -1,7 +1,6 @@
 # ignore build artifacts
 build-*/*
 xbuild/*
-multibound2/build/**
 *.o
 
 # user config
